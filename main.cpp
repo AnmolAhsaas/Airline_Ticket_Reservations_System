@@ -8,7 +8,7 @@ using namespace std;
 
 const char *HOST = "localhost";
 const char *USER = "root";
-const char *PW = "Ajayanand@1";
+const char *PW = "Password"; //enter local dbms's password
 const char *DB = "flightdb";
 
 class Flight
